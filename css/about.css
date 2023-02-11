@@ -421,6 +421,7 @@ margin-top: 102px;
 }.gooogle-play:hover,
 .appstore:hover{
   background: #657d97;
+  border: 1px solid red;
 
 }
 .appstore-txt,
