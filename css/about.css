@@ -376,6 +376,9 @@ color: #495567;
   flex-direction: column;
   gap: 100px;
 }
+.accordion-body p{
+  color: #0d4491  ;
+}
 /* start faqs style  */
 /* start footer style  */
 footer{

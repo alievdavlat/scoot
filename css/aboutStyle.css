@@ -214,7 +214,9 @@ font-size: 32px;
 /* /end hero style  */
 
 /* start mobility and living style  */
-
+.living-section{
+  margin-bottom: 200px !important;
+}
 .mobilty-section{
   margin-bottom: 0px !important;
 }
@@ -294,6 +296,11 @@ height: 300px;
 /* start our values style  */
 
 /* start faqs style  */
+.faqs-section{
+  margin-top: 470px !important;
+}
+
+
 .faqs{
   align-items: center;
   justify-content: center;
@@ -335,6 +342,7 @@ footer{
   background-repeat: no-repeat;
   background-size: contain;
   background-position:20px 400px;
+  margin-top: 300px;
 }
 
 .footer-wrapper{
